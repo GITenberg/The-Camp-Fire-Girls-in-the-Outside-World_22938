@@ -1,0 +1,27 @@
+_repo: The-Camp-Fire-Girls-in-the-Outside-World_22938
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22938-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+title: The Camp Fire Girls in the Outside World
+url: http://www.gutenberg.org/ebooks/22938
